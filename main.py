@@ -1,3 +1,4 @@
+#test
 def somme (a,b):
     return a + b
 def get_weather(temp) :
@@ -5,3 +6,4 @@ def get_weather(temp) :
         return "cold"
     else :
         return "hot"
+
